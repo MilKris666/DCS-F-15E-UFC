@@ -3,8 +3,13 @@
 # DCS-F-15E-UFC
 F-15E UCD and HUD Control Panel
 
+DEMO: https://www.youtube.com/shorts/RJroxBjHNDQ
 
-WIP
+
+DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
+
+
+WIP: STAY TUNED...
 
 
 
