@@ -9,8 +9,6 @@ DEMO: https://www.youtube.com/shorts/QaWi3vZVVlY
 DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
 
 
-WIP: STAY TUNED...
-
 Files and more: https://www.thingiverse.com/thing:6248787
 
 
