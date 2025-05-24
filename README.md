@@ -11,6 +11,7 @@ DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_
 
 WIP: STAY TUNED...
 
+Files and more: https://www.thingiverse.com/thing:6248787
 
 
 LICENSE: Creative Commons Attribution-NonCommercial 4.0 International Public License
