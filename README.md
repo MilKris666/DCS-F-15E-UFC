@@ -1,6 +1,6 @@
 ![Alt text](F-15E-UFC.png)
 
-# 3D files will be updated and available again soon 
+# The 3D files and build guide will be updated and available again soon
 
 # DCS-F-15E-UFC
 F-15E UFC and HUD Control Panel
